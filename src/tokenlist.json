@@ -1,27 +1,27 @@
 {
   "name": "ShibaFinance List",
-  "timestamp": "2023-08-13T16:00:00.000Z",
+  "timestamp": "2023-08-16T13:00:00.000Z",
   "logoURI": "https://shibafinance.xyz/favicon.ico",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 0
+    "patch": 1
   },
   "tokens": [
     {
-      "name": "T-BONE",
-      "address": "0x7b79995e5f793A07Bc00c21412e50Ecae098E7f9",
-      "symbol": "T-BONE",
+      "name": "WBONE",
+      "address": "0xD9C8177418b6eC0AaB20361932927c7312D66993",
+      "symbol": "WBONE",
       "decimals": 18,
-      "chainId": 11155111,
+      "chainId": 719,
       "logoURI": "https://raw.githubusercontent.com/Shibafinancecoin/tokenlist/main/logos/bone.png"
     },
     {
       "name": "ShibaFinance",
-      "address": "0xbEe409165B84c3f5a1C769a6e9e515eC7B4B955c",
+      "address": "0x2dcB36dCe4ceFFd7dCD7b6b3F75c421668106601",
       "symbol": "SHIBF",
       "decimals": 18,
-      "chainId": 11155111,
+      "chainId": 719,
       "logoURI": "https://raw.githubusercontent.com/Shibafinancecoin/tokenlist/main/logos/token.png"
     }
   ]

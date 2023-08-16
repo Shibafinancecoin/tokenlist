@@ -1,11 +1,11 @@
 {
   "name": "ShibaFinance List",
-  "timestamp": "2023-08-16T13:00:00.000Z",
+  "timestamp": "2023-08-16T13:30:00.000Z",
   "logoURI": "https://shibafinance.xyz/favicon.ico",
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "tokens": [
     {

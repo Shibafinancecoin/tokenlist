@@ -3,9 +3,9 @@
   "timestamp": "2023-08-16T13:30:00.000Z",
   "logoURI": "https://shibafinance.io/favicon.ico",
   "version": {
-    "major": 2,
+    "major": 3,
     "minor": 0,
-    "patch": 2
+    "patch": 0
   },
   "tokens": [
     {
@@ -18,7 +18,7 @@
     },
     {
       "name": "ShibaFinance",
-      "address": "0xBCa9Cb0F3b005BbcaA6B6B01415Be7807B8aF33e",
+      "address": "0x93a9396A9dD918D306Ef3c198521B16495Ea091b",
       "symbol": "SHIBF",
       "decimals": 18,
       "chainId": 109,

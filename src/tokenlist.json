@@ -4,7 +4,7 @@
   "logoURI": "https://DogeriumDex.app/favicon.ico",
   "version": {
     "major": 6,
-    "minor": 0,
+    "minor": 1,
     "patch": 0
   },
   "tokens": [
@@ -18,7 +18,7 @@
     },
     {
       "name": "DogeriumDex",
-      "address": "0x5ca230a706030205A8831D779BEc94F5D05c6632",
+      "address": "0x0479bE200f4d54Fc025098dB6F5191009FD0f7Ca",
       "symbol": "DogeriumDex",
       "decimals": 18,
       "chainId": 109,

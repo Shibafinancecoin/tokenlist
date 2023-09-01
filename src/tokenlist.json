@@ -1,9 +1,9 @@
 {
-  "name": "PuppySwap List",
+  "name": "Dogerium List",
   "timestamp": "2023-08-16T13:30:00.000Z",
-  "logoURI": "https://puppyswap.tech/favicon.ico",
+  "logoURI": "https://DogeriumDex.app/favicon.ico",
   "version": {
-    "major": 4,
+    "major": 5,
     "minor": 0,
     "patch": 0
   },
@@ -15,14 +15,6 @@
       "decimals": 18,
       "chainId": 109,
       "logoURI": "https://raw.githubusercontent.com/Shibafinancecoin/tokenlist/main/logos/bone.png"
-    },
-    {
-      "name": "PuppySwap",
-      "address": "0x8E9851cF4edd2Cf688Ef4964236087754621bF12",
-      "symbol": "PUPPY",
-      "decimals": 18,
-      "chainId": 109,
-      "logoURI": "https://raw.githubusercontent.com/Shibafinancecoin/tokenlist/main/logos/token.png"
     }
   ]
 }
